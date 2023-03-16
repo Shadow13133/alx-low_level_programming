@@ -2,6 +2,8 @@
 /**
  * main - this is the main function
  *
+ * and run on
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
